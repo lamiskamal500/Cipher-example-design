@@ -1,0 +1,38 @@
+/* #main_news{
+    background-color: grey;
+} */
+#sub_news{
+    background-color: grey;
+    border:  black; 
+    color: white ;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    border: 5px solid rgb(52, 51, 51);
+
+}
+li{
+    height: 50px;
+}
+.section{
+    margin: 150px;
+}
+.active{
+    color: #fff;
+    background: #f00;
+}
+.active3{
+    display: none;
+}
+.active2{
+    display: block;
+}
+.col-6{
+    margin-left: 102px;
+    margin-top: 50px;
+}
+img{
+    width:500px;
+    height:500px;
+}
